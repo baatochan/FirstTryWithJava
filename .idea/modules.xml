@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FirstTryWithJava.iml" filepath="$PROJECT_DIR$/FirstTryWithJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hello World!/Hello World!.iml" filepath="$PROJECT_DIR$/Hello World!/Hello World!.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../workspace1/inf20141016/inf20141016.iml" filepath="$PROJECT_DIR$/../workspace1/inf20141016/inf20141016.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inf20141016/inf20141016.iml" filepath="$PROJECT_DIR$/inf20141016/inf20141016.iml" />
     </modules>
   </component>
 </project>
