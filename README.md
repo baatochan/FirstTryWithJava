@@ -1,5 +1,5 @@
 # First Try with Java
-Java code written by me before the university
+Java code written by me before the university (before Sep 2015).
 
 Author: Bartosz Rodziewicz
 
